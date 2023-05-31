@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "603926786643",
+    "project_id": "convertidor-de-texto",
+    "storage_bucket": "convertidor-de-texto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603926786643:android:46d0c951e3447332448ca6",
+        "android_client_info": {
+          "package_name": "com.geek.converor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XKlvSq-S-V6YLO1-2t5R-WLkdxXC7I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603926786643:android:ce0e745d7486a9b0448ca6",
+        "android_client_info": {
+          "package_name": "com.geek.convert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XKlvSq-S-V6YLO1-2t5R-WLkdxXC7I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603926786643:android:3ebcee4172c1861d448ca6",
+        "android_client_info": {
+          "package_name": "com.geek.ejemplo_texto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XKlvSq-S-V6YLO1-2t5R-WLkdxXC7I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
